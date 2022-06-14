@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+.header{
+    display: flex;
+}
+ul{
+    text-align: center;
+}
+p{
+    font-size: larger;
+    color: blue;
+    
+}
